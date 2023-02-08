@@ -2,35 +2,18 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hi 👋, I'm Naim Ahmed Shuvo</h1>
-<h3 align="center">A passionate Javascript Developer from Bangladesh</h3>
+<h3 align="center">A passionate Javascript Developer from Bangladesh</h3> <br> <br>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=shuvo-me&label=Profile%20views&color=0e75b6&style=flat"
-    alt="shuvo-me"
-  />
-</p>
+<img align="right" alt="coding" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" width="300">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvo-me&label=Profile%20views&color=0e75b6&style=flat" alt="shuvo-me" /> </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=shuvo-me"
-      alt="shuvo-me"
-  /></a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/shuvojsdev" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/shuvojsdev?logo=twitter&style=for-the-badge"
-      alt="shuvojsdev"
-  /></a>
-</p>
-
-- 👯 I’m looking to collaborate on **javascript react nextjs projects** - 👨‍💻 All
+- 👯 I’m looking to collaborate on **javascript react nextjs projects** <br>
+- 👨‍💻 All
   of my projects are available at
-  [profile-shuvo.vervel.app](profile-shuvo.vervel.app) - 💬 Ask me about
-  **javascript react next.js remix.js** - 📫 How to reach me
+  [profile-shuvo.vervel.app](profile-shuvo.vervel.app) <br> 
+- 💬 Ask me about
+  **javascript react next.js remix.js** <br> 
+- 📫 How to reach me
   **shuvo.js.dev@gmail.com** ### Blogs posts
   <!-- BLOG-POST-LIST:START -->
   <!-- BLOG-POST-LIST:END -->
@@ -62,6 +45,8 @@
       width="40"
   /></a>
 </p>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
