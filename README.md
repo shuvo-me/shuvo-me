@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Naim Ahmed Shuvo</h1>
 <h3 align="center">A passionate Javascript Developer from Bangladesh</h3> <br> <br>
 
-<img align="right" alt="coding" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" width="300">
+<img align="right" alt="coding" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" width="450">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvo-me&label=Profile%20views&color=0e75b6&style=flat" alt="shuvo-me" /> </p>
 
 - 👯 I’m looking to collaborate on **javascript react nextjs projects** <br>
