@@ -1,13 +1,8 @@
 
-<img
-  src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif"
-  align="center"
-  alt="coding"
-  width="300"
-/>
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hi 👋, I'm Naim Ahmed Shuvo</h1>
-<h3 align="center">A passionate Javascruipt Developer from Bangladesh</h3>
+<h3 align="center">A passionate Javascript Developer from Bangladesh</h3>
 
 <p align="left">
   <img
