@@ -1,244 +1,83 @@
-
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1 align="center">Hi 👋, I'm Naim Ahmed Shuvo</h1>
-<h3 align="center">A passionate Javascript Developer from Bangladesh</h3> <br> <br>
-
-<img align="right" alt="coding" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" width="450">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvo-me&label=Profile%20views&color=0e75b6&style=flat" alt="shuvo-me" /> </p>
-
-- 👯 I’m looking to collaborate on **javascript react nextjs projects** <br>
-- 👨‍💻 All
+### About Me 👨‍💻
+#### I'm **Naim Ahmed Shuvo**. A passionate Javascript Developer from Bangladesh
+Key Notes:
+- I’m looking to collaborate on **javascript react nextjs projects** 🎯<br>
+- All
   of my projects are available at
-  [profile-shuvo.vercel.app](https://profile-shuvo.vercel.app) <br> 
-- 💬 Ask me about
-  **javascript react next.js remix.js** <br> 
-- 📫 How to reach me
-  **shuvo.js.dev@gmail.com** 
+  [profile-shuvo.vercel.app](https://profile-shuvo.vercel.app) 🌐<br>
+- Ask me about
+  **javascript react next.js remix.js** 💡<br>
+- How to reach me
+  **shuvo.js.dev@gmail.com**
+📫
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://dev.to/naimahmedshuvo" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-      alt="naimahmedshuvo"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://twitter.com/shuvojsdev" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="shuvojsdev"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://linkedin.com/in/naim-ahmed-shuvo-aaba311a6/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="naim-ahmed-shuvo-aaba311a6/"
-      height="30"
-      width="40"
-  /></a>
-</p>
+  <br>
+
+
+### Find Me On
+---
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naim-ahmed-shuvo-aaba311a6/)&nbsp;
+[![](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ShuvoJsDev)&nbsp;
+[![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/naimahmedshuvo) &nbsp;
+[![](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)](https://dev.to/naimahmedshuvo) &nbsp;
+
+
 
 <br>
 
-<h3 align="left">Tech Stack</h3>
-<hr>
-<p align="left">
- <h6 align="left">Frontend</h3>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a> &nbsp;
-  
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>&nbsp;
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>&nbsp;
-  
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>&nbsp;
-  
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>&nbsp;
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>&nbsp;
-  
- 
-  
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>&nbsp;
- 
-  
-</p>
+### Expertise
+---
+[![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://javascript.info/) &nbsp;
+[![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)](https://beta.reactjs.org/) &nbsp;
+[![](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://beta.nextjs.org/docs) &nbsp;
+[![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)&nbsp;
+[![](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.dev/en/learn/)
 
-<p align="right">
-<h6>Backend</h6>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>&nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>&nbsp;
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>&nbsp;
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      width="40"
-      height="40"
-    />
-  </a> &nbsp;
-</p>
-
-<p>
-<h6>
-Extra Tools
-</h6>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>&nbsp;
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>&nbsp;
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-</p> <br>
+<br>
 
 
+### Daily Uses
+---
 
-<p align="left">
-&nbsp;<img
-align="center"
-src="https://github-readme-stats.vercel.app/api?username=shuvo-me&show_icons=true&locale=en"
-alt="shuvo-me"
-/>
-</p>
-<p align="right">
-<img
-align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvo-me&show_icons=true&locale=en&layout=compact"
-alt="shuvo-me"
-/>
-</p>
-<p align="left">
-<img
-align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=shuvo-me&"
-alt="shuvo-me"
-/>
-</p>
+[![](https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white)]()&nbsp;
+[![](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)](https://redux.js.org/introduction/why-rtk-is-redux-today)&nbsp;
+[![](https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white)](https://www.apollographql.com/docs/react)&nbsp;
+[![](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)](https://graphql.org/)&nbsp;
+[![](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/developer/)
 
-</p>
+<br>
+
+### Code Editing
+---
+[![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/)&nbsp;
+[![](https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white)](https://www.jetbrains.com/webstorm/)&nbsp;
+[![](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white)](https://www.sublimetext.com/)
+
+<br>
+
+### Resources I Follow
+---
+[![](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/)&nbsp;
+[![](https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white)](https://hashnode.com/)&nbsp;
+[![](https://img.shields.io/badge/MDN%20Web%20Docs-000000.svg?style=for-the-badge&logo=MDN-Web-Docs&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![](https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+
+<br>
+
+### Browsers I Use
+___
+[![](https://img.shields.io/badge/Firefox-FF7139.svg?style=for-the-badge&logo=Firefox&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)&nbsp;
+[![](https://img.shields.io/badge/Brave-FB542B.svg?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/)&nbsp;
+[![](https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.google.com/chrome/)
+
+<br>
+
+### Operating System 
+---
+![](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)&nbsp;
+![](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)
+
+
