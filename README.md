@@ -35,6 +35,15 @@ Key Notes:
 [![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)&nbsp;
 [![](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)&nbsp;
 
+#### Open Source Contributions 🔰
+[Updated Vue router docs.](https://github.com/vuejs/router/pull/2048)
+[Updated option api into composition api intertia vuejs pingcrm example](https://github.com/inertiajs/pingcrm/pull/208)
+[Updated option api into composition api intertia vuejs pingcrm example](https://github.com/inertiajs/pingcrm/pull/208)
+[Docs improve wording in nuxtjs seo docs](https://github.com/nuxt/nuxt/pull/25692#pullrequestreview-1873160111)
+[Feature: Top progress bar feature added in keep-react component library](https://github.com/StaticMania/keep-react/pull/141)
+[Feature: Top progress bar feature added in keep-react component library](https://github.com/StaticMania/keep-react/pull/141)
+[Updated carousel component with embla carousel react library in keep react component library](https://github.com/StaticMania/keep-react/pull/150)
+
 #### Code Editing 🖊️
 [![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/)&nbsp;
 [![](https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=WebStorm&logoColor=white)](https://www.jetbrains.com/webstorm/)&nbsp;
