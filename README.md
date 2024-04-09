@@ -16,12 +16,6 @@ Key Notes:
   <br>
 
 
-#### Find Me On 🕵
-
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuvojsdev/)&nbsp;
-[![](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ShuvoJsDev)&nbsp;
-[![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/naimahmedshuvo) &nbsp;
-[![](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/15399595/shuvo) 
 
 
 #### Expertise 🔥
@@ -41,6 +35,14 @@ Key Notes:
 - [Updated option api into composition api intertia vuejs pingcrm example](https://github.com/inertiajs/pingcrm/pull/208)<br>
 - [Updated Vue router docs.](https://github.com/vuejs/router/pull/2048)<br>
 - [Docs improve wording in nuxtjs seo docs](https://github.com/nuxt/nuxt/pull/25692#pullrequestreview-1873160111)
+
+
+#### Find Me On 🕵
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuvojsdev/)&nbsp;
+[![](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ShuvoJsDev)&nbsp;
+[![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/naimahmedshuvo) &nbsp;
+[![](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/15399595/shuvo) 
 
 #### Code Editing 🖊️
 [![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/)&nbsp;
