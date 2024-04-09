@@ -36,13 +36,11 @@ Key Notes:
 [![](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)&nbsp;
 
 #### Open Source Contributions 🔰
-[Updated Vue router docs.](https://github.com/vuejs/router/pull/2048)<br>
-[Updated option api into composition api intertia vuejs pingcrm example](https://github.com/inertiajs/pingcrm/pull/208)<br>
-[Updated option api into composition api intertia vuejs pingcrm example](https://github.com/inertiajs/pingcrm/pull/208)<br>
-[Docs improve wording in nuxtjs seo docs](https://github.com/nuxt/nuxt/pull/25692#pullrequestreview-1873160111)<br>
-[Feature: Top progress bar feature added in keep-react component library](https://github.com/StaticMania/keep-react/pull/141)<br>
 [Feature: Top progress bar feature added in keep-react component library](https://github.com/StaticMania/keep-react/pull/141)<br>
 [Updated carousel component with embla carousel react library in keep react component library](https://github.com/StaticMania/keep-react/pull/150)
+[Updated option api into composition api intertia vuejs pingcrm example](https://github.com/inertiajs/pingcrm/pull/208)<br>
+[Updated Vue router docs.](https://github.com/vuejs/router/pull/2048)<br>
+[Docs improve wording in nuxtjs seo docs](https://github.com/nuxt/nuxt/pull/25692#pullrequestreview-1873160111)<br>
 
 #### Code Editing 🖊️
 [![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/)&nbsp;
